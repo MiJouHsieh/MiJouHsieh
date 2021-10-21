@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 你好啊 🙂
+ :sparkles:  :sparkles:  :sparkles:
+ 
+ I'm a beginner in programming 🐤
+ 
+ I'm currently learning HTML5 🌼 CSS3 🌻 Javascript 🌷
 
 <!--
 **MiJouHsieh/MiJouHsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
